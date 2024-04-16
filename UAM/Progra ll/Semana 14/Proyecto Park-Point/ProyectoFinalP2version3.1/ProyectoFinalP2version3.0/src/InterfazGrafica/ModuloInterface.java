@@ -1,0 +1,7 @@
+
+package InterfazGrafica;
+
+
+interface ModuloInterface {
+
+}
